@@ -1,0 +1,5 @@
+
+pydantic>=2.7.1 
+langchain>=0.1.16 
+langchain-core>=0.1.42 
+langchain-google-genai>=0.0.9
